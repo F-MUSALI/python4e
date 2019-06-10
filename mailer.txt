@@ -1,0 +1,9 @@
+From: dc kira
+email: info@dckira.org
+Message: this is your message!!
+From: intel
+email: intel@org.us
+Message: this is now your message!! thankyou
+From: dc kira
+email: info@dckira.org
+Message: this is your another message!!
